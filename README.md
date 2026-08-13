@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/strangerdev255" target="blank"><img src="https://img.shields.io/twitter/follow/strangerdev255?logo=twitter&style=for-the-badge" alt="strangerdev255" /></a> </p>
 
-- 🔭 I’m currently working on [ShopRex]
+- 🔭 I’m currently working on [0_0]
 
-- 🌱 Currently learning **React.js , next.js & GoLang.**
+- 🌱 Currently learning **Next.js & GoLang.**
 
 - 👨‍💻 All of my projects are available at [harsuu.fte]
 
-- 💬**Just a grown ass kid 😔**
+- Just a grown ass kid 😔
 
-- 📫 How to reach me **Harshjangid033@gmail.com**
+- 📫 Reach me **Harshjangid033@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
