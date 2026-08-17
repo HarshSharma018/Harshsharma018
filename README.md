@@ -1,7 +1,7 @@
 # `harsh@github`
 
 <p align="center">
-  <img src="./neofetch.svg" alt="Harsh's GitHub neofetch profile" width="980">
+  <img src="https://raw.githubusercontent.com/HarshSharma018/Harshsharma018/main/neofetch.svg" alt="Harsh's GitHub neofetch profile">
 </p>
 
 ## `$ whoami`
