@@ -44,7 +44,6 @@ CSS             █████
 
 ---
 
-```text
 $ git add .
 
 $ git commit -m "Trying to building something"
@@ -69,7 +68,6 @@ To github.com:HarshSharma018/HarshSharma018.git
    4a1b2c3..7c1a9f2  main -> main
 
 
-```text
 ┌─ life summary
 │
 ├── Current status:    struggling
@@ -81,12 +79,7 @@ To github.com:HarshSharma018/HarshSharma018.git
 ```
 ```
 
----
-
-<p align="center">
 ```
-
----
 
 <p align="center">
   <sub> If u read till here ,thnx for this reading this 🙃</sub>
