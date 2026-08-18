@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="./neofetch-github-v4.svg">
-    <img src="./neofetch-github-v4.svg" alt="Harsh's GitHub neofetch profile" width="100%">
+  <a href="./neofetch-github-grey-v3.svg">
+    <img src="./neofetch-github-grey-v3.svg" alt="Harsh's GitHub neofetch profile">
   </a>
 </p>
 
