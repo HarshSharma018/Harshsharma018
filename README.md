@@ -25,15 +25,15 @@ Currently building foundations in **Go, backend engineering, Linux and DevOps**.
 - GitHub: [@HarshSharma018](https://github.com/HarshSharma018)
 - Twitter: `https://x.com/hrshdev255`
 
-\`\`\`
-$ go build ./...
+```text
+$ git commit -m "Trying to building something"
 
-learning...
-building...
-debugging...
-repeat.
+[main 7c1a9f2] Building something 
+4 files changed, 128 insertions(+), 12 deletions(-)
 
-\`\`\`
+
+$ git push origin main 
+```
 
 ---
 
