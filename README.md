@@ -32,10 +32,11 @@ learning...
 building...
 debugging...
 repeat.
+
 \`\`\`
 
 ---
 
 <p align="center">
-  <sub>Thnx for this reading this 🙃</sub>
+  <sub> If u read till here ,thnx for this reading this 🙃</sub>
 </p>
