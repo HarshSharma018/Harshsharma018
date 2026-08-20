@@ -44,7 +44,7 @@
 </g>
 <g>
 
-  <text x="400" y="50" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="17" font-weight="700" fill="#E8E8EA" opacity="0">harsh@harsh-IdeaPad-Slim-5-13ARP10<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.69s" fill="freeze"/></text>
+  <text x="400" y="50" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="17" font-weight="700" fill="#E8E8EA" opacity="0">harsh@harsh-Desktop:~<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.69s" fill="freeze"/></text>
 
   <text x="400" y="72" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14" fill="#4A4A4E" opacity="0">----------------------------------<animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.26s" fill="freeze"/></text>
 
@@ -59,12 +59,11 @@
 
   <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.47s" dur="0.34s" fill="freeze"/>
     <text x="400" y="151.5" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14.5" font-weight="700" fill="#E8E8EA">OS:</text>
-    <text x="530" y="151.5" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14.5" fill="#A6A6AA">Ubuntu 24.04.4 LTS x86_64</text>
+    <text x="530" y="151.5" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14.5" fill="#A6A6AA">Ubuntu 24.04.4 </text>
   </g>
 
   <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.72s" dur="0.34s" fill="freeze"/>
-    <text x="400" y="178.0" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14.5" font-weight="700" fill="#E8E8EA">Kernel:</text>
-    <text x="530" y="178.0" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14.5" fill="#A6A6AA">7.0.0-28-generic</text>
+
   </g>
 
   <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.34s" fill="freeze"/>
@@ -94,7 +93,7 @@
 
   <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.28s" dur="0.34s" fill="freeze"/>
     <text x="400" y="337.0" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14.5" font-weight="700" fill="#E8E8EA">Tools:</text>
-    <text x="530" y="337.0" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14.5" fill="#A6A6AA">Git / Linux / Docker</text>
+    <text x="530" y="337.0" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="14.5" fill="#A6A6AA">Git / Github / Linux / Docker</text>
   </g>
 
   <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.53s" dur="0.34s" fill="freeze"/>
