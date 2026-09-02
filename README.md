@@ -7,7 +7,7 @@
 ## `$ whoami`
 ---
 
-Just a ordinary backend dev :)
+I'm harsh, a engineering student
 
 Currently building foundations in **Go, backend engineering, Linux and DevOps**.
 
@@ -48,14 +48,7 @@ $ git add .
 
 $ git commit -m "Trying to building something"
 
-[main 7c1a9f2] Trying to building something 
-
-4 files changed, 128 insertions(+), 12 deletions(-)
-
 $ git push origin main
-
-Enumerating objects: 18, done.
-Counting objects: 100% , done.
 
 To github.com:HarshSharma018/HarshSharma018.git
 
