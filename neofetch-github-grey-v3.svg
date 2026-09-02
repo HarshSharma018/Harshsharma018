@@ -46,7 +46,7 @@
 
   <clipPath id="clipHeader">
     <rect x="400" y="34" width="0" height="24">
-      <animate attributeName="width" from="0" to="191" begin="0.00s" dur="0.59s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="283" begin="0.00s" dur="0.59s" fill="freeze"/>
     </rect>
   </clipPath>
   <text x="400" y="50" font-family='SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace' font-size="17" font-weight="700" fill="#E8E8EA" clip-path="url(#clipHeader)">harsh@harsh-Desktop:~</text>
@@ -55,7 +55,7 @@
 
   <clipPath id="clipRow0">
     <rect x="396" y="82.5" width="0" height="22">
-      <animate attributeName="width" from="0" to="143" begin="0.80s" dur="0.34s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="180" begin="0.80s" dur="0.34s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow0)">
@@ -64,7 +64,7 @@
 
   <clipPath id="clipRow1">
     <rect x="396" y="109.0" width="0" height="22">
-      <animate attributeName="width" from="0" to="152" begin="1.19s" dur="0.36s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="248" begin="1.19s" dur="0.36s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow1)">
@@ -74,7 +74,7 @@
 
   <clipPath id="clipRow2">
     <rect x="396" y="135.5" width="0" height="22">
-      <animate attributeName="width" from="0" to="195" begin="1.62s" dur="0.50s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="320" begin="1.62s" dur="0.50s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow2)">
@@ -84,7 +84,7 @@
 
   <clipPath id="clipRow3">
     <rect x="396" y="162.0" width="0" height="22">
-      <animate attributeName="width" from="0" to="350" begin="2.18s" dur="1.01s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="446" begin="2.18s" dur="1.01s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow3)">
@@ -94,7 +94,7 @@
 
   <clipPath id="clipRow4">
     <rect x="396" y="188.5" width="0" height="22">
-      <animate attributeName="width" from="0" to="375" begin="3.25s" dur="1.09s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="455" begin="3.25s" dur="1.09s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow4)">
@@ -104,7 +104,7 @@
 
   <clipPath id="clipRow5">
     <rect x="396" y="215.0" width="0" height="22">
-      <animate attributeName="width" from="0" to="367" begin="4.40s" dur="1.06s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="455" begin="4.40s" dur="1.06s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow5)">
@@ -114,7 +114,7 @@
 
   <clipPath id="clipRow6">
     <rect x="396" y="241.5" width="0" height="22">
-      <animate attributeName="width" from="0" to="375" begin="5.53s" dur="1.09s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="446" begin="5.53s" dur="1.09s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow6)">
@@ -124,7 +124,7 @@
 
   <clipPath id="clipRow7">
     <rect x="396" y="268.0" width="0" height="22">
-      <animate attributeName="width" from="0" to="367" begin="6.68s" dur="1.06s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="446" begin="6.68s" dur="1.06s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow7)">
@@ -134,7 +134,7 @@
 
   <clipPath id="clipRow8">
     <rect x="396" y="294.5" width="0" height="22">
-      <animate attributeName="width" from="0" to="350" begin="7.80s" dur="1.01s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="455" begin="7.80s" dur="1.01s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow8)">
@@ -144,7 +144,7 @@
 
   <clipPath id="clipRow9">
     <rect x="396" y="321.0" width="0" height="22">
-      <animate attributeName="width" from="0" to="117" begin="8.87s" dur="0.25s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="194" begin="8.87s" dur="0.25s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow9)">
@@ -154,7 +154,7 @@
 
   <clipPath id="clipRow10">
     <rect x="396" y="347.5" width="0" height="22">
-      <animate attributeName="width" from="0" to="40" begin="9.18s" dur="0.20s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="64" begin="9.18s" dur="0.20s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow10)">
@@ -163,7 +163,7 @@
 
   <clipPath id="clipRow11">
     <rect x="396" y="374.0" width="0" height="22">
-      <animate attributeName="width" from="0" to="298" begin="9.44s" dur="0.84s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="374" begin="9.44s" dur="0.84s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow11)">
@@ -173,7 +173,7 @@
 
   <clipPath id="clipRow12">
     <rect x="396" y="400.5" width="0" height="22">
-      <animate attributeName="width" from="0" to="229" begin="10.34s" dur="0.62s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="275" begin="10.34s" dur="0.62s" fill="freeze"/>
     </rect>
   </clipPath>
   <g clip-path="url(#clipRow12)">
