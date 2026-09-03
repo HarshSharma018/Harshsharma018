@@ -56,9 +56,7 @@ To github.com:HarshSharma018/HarshSharma018.git
 ┌─ life summary
 │
 ├── Current status:    struggling
-├── Sleep schedule:    so fcked 
-├── Dev progress :    compiling...
-├── Mental RAM:        98% occupied
+├── Dev progress :     compiling...
 ├── Social life:       offline
 └── Survival status:   somehow surviving 
 ```
